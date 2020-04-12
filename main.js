@@ -54,6 +54,7 @@ function App(props) {
 const root = document.querySelector('#application-root');
 
 ReactDOM.render(
-  <App />,
-  root
-);
+	'hello world',
+	root
+)
+;
